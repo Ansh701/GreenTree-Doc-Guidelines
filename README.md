@@ -1,4 +1,4 @@
-# GreenTree Document Naming Convention
+# Document Naming Convention
 
 ## 📘 Introduction
 
